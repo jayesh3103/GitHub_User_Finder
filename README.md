@@ -21,4 +21,4 @@ GitHub User Finder is a web application that allows users to search for GitHub p
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/jayeshmuley10/github-user-finder.git
+git clone https://github.com/jayesh3103/github-user-finder.git
